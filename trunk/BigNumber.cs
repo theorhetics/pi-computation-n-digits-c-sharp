@@ -8,7 +8,7 @@ using System.Text;
 namespace PiCompute.Util {
 
 	/// <summary>
-	/// Well-deserved credit to Julian M. Bucknall and forbears wuch as J.W. Stumpel and John Machin:
+	/// Well-deserved credit to Julian M. Bucknall and forbears such as J.W. Stumpel and John Machin:
 	/// http://www.boyet.com/Articles/PiCalculator.html
 	/// </summary>
 	public class BigNumber {
