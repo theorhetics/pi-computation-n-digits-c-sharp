@@ -1,0 +1,1 @@
+Provides a fast mechanism to compute pi. Includes a BigNumber class and utilizes the historic technique discovered by Machin.
